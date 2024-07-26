@@ -1,4 +1,4 @@
-print("*"*40)
+print("*"*100)
 import sys
 print(sys.version)
-print("*"*40)
+print("*"*100)
