@@ -1,1 +1,3 @@
-print("This is file a.py ")
+print("*"*20)
+python --version
+print("*"*20)
