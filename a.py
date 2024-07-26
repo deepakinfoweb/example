@@ -1,3 +1,4 @@
-print("*"*20)
-python --version
-print("*"*20)
+print("*"*40)
+import sys
+print(sys.version)
+print("*"*40)
